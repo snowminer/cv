@@ -5,7 +5,8 @@ img, embed, video, object {
   /*alt width:100%;*/
 }
 img{width:45%;}
-aside{float:right;}
+aside{float:right;
+ text-align: left;}
 
 .training p{font-style: italic;}
 button {
