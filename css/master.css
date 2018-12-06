@@ -4,11 +4,9 @@ img, embed, video, object {
   max-width: 100%;
   /*alt width:100%;*/
 }
-img{width:75%;}
+img{width:45%;}
 aside{float:right;}
-.training img{
-  width: 40%;
-}
+
 .training p{font-style: italic;}
 button {
   min-width: 48px;
